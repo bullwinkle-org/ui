@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e489ac3-9972-49f9-8dbd-5243c7f6033d" name="Default Changelist" comment="initial">
-      <change beforePath="$PROJECT_DIR$/assets/images/code-brackets.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/code-brackets.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/colors.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/colors.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/comments.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/comments.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/company-logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/company-logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/direction.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/direction.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/flow.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/flow.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/plugin.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/plugin.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/repo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/repo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/stackalt.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/stackalt.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/iframe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c86bd027888b9da3dfbc.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c86bd027888b9da3dfbc.bundle.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runtime~main.c86bd027888b9da3dfbc.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runtime~main.c86bd027888b9da3dfbc.bundle.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendors~main.c86bd027888b9da3dfbc.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendors~main.c86bd027888b9da3dfbc.bundle.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendors~main.c86bd027888b9da3dfbc.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <list id="7b650f0c-93f4-4460-85f8-489489f5ba3e" name="tmp" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
@@ -97,7 +80,7 @@
       <workItem from="1613704411168" duration="2000" />
       <workItem from="1614145274880" duration="2369000" />
       <workItem from="1614149328393" duration="371000" />
-      <workItem from="1614150817763" duration="218000" />
+      <workItem from="1614150817763" duration="502000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <created>1614147717254</created>
@@ -127,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614150827666</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="initial">
+      <created>1614151170558</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614151170558</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
