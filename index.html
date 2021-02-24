@@ -19,9 +19,6 @@
     console.warn('unable to connect to top frame for connecting dev tools');
   }
 
-
-
-
   window.onerror = function onerror(message, source, line, column, err) {
     if (window.CONFIG_TYPE !== 'DEVELOPMENT') return;
     // eslint-disable-next-line no-var, vars-on-top
